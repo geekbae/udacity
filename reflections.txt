@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1.Learned, writing plain html codes including different text styles and text formats, using tags, w have seen how tags effects their content and together become element. We also covered external and internal links, nested images also covered in the same chapter explaining how images work by using internal or external sources.  Learned a bit about industry practiceses such as working with a designer, making an mock webpage into real dynamic website. Most importantly tree analogy explained well, and we saw how parent child relations implimented in web (HTML). 
+
+2. It has been easy.
+
+3. using udacity extension, it never worked for me. 
+
+4.Yes I have.
